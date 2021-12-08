@@ -1,0 +1,8 @@
+appVersion: v1
+kind: Pod
+metadata:
+  name: pod3
+spec:
+  containers:
+    - name: java-jaggu
+      image: jagan1595/docker-java-sample:latest
