@@ -8,5 +8,5 @@ spec:
     image: nginx
     ports:
     - containerPort: 8080
- - name: nginx-jaggu-watcher
-   image: afakharany/watcher
+  - name: nginx-jaggu-watcher
+    image: afakharany/watcher
