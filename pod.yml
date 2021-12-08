@@ -4,7 +4,7 @@ metadata:
   name: pod1
 spec:
   containers:
-    - name: ngnix-jaggu
-      image: ngnix
-      ports:
-        - containerPort: 8080
+  - name: nginx-arjun
+    image: nginx
+    ports:
+    - containerPort: 8080
